@@ -1,0 +1,23 @@
+{
+  "name": "huffman",
+  "version": "1.0.0",
+  "description": "Huffman (de)compression implementation",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GusGold/Huffman.git"
+  },
+  "keywords": [
+    "Huffman",
+    "Compression"
+  ],
+  "author": "GusGold",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GusGold/Huffman/issues"
+  },
+  "homepage": "https://github.com/GusGold/Huffman#readme"
+}
